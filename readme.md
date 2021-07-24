@@ -17,8 +17,9 @@ PLAYLISTNAME="def"
 
 >> build docker command
 
+````
 docker build -t <tag_name> <path to Dockerfile>
-
+````
 >> run docker command
 
 ````
